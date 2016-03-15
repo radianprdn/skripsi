@@ -1,0 +1,2 @@
+# skripsi
+Software buat skripsi
